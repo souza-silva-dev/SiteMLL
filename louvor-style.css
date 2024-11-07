@@ -1,0 +1,65 @@
+
+p{
+    color: aqua; 
+    margin: 25px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 18px;
+    text-align: justify;
+}
+
+h1{
+    color: brown;
+    margin: 25px;
+    max-width: 1024px;
+    min-width: 320px;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2{color: blue;
+    margin: 25px;
+    max-width: 1024px;
+    min-width: 320px;
+}
+
+
+.músicas{color: white;}
+
+span{color: white;}
+
+ol{color: brown;
+   
+
+}
+
+html{
+    background-image: url(./Imagem/Imagem\ WhatsApp\ 2024-10-15\ às\ 19.09.51_a21add60.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-color: black;
+   background-position: right;
+   background-attachment: fixed;
+
+
+
+}
+
+.sem-decoration  { 
+    text-decoration: none;
+}
+
+h3{
+    color: burlywood;
+    margin: 25px;
+}
+main{
+    max-width: 1024px;
+    min-width: 320px;
+   
+}
+.fundo{
+    
+}
+
+

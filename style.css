@@ -1,0 +1,127 @@
+a:hover {
+    background-color: white;
+}
+
+
+
+@font-face {
+    font-family: 'Milky';
+    src: url(./Fonte/MilkyNice.otf), url(./Fonte/MilkyNice.ttf);
+}
+
+@font-face {
+    font-family: 'team';
+    src: url(./Fonte/B-TEAM.otf);
+}
+
+td,
+th {
+    border: solid white;
+    border-style: double;
+    text-align: center;
+}
+
+.letra {
+    color: cyan;
+    width: 98vw;
+    height: 48vh;
+
+
+}
+
+html {
+    background-color: black;
+    
+    
+}
+
+.lista {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+        'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span {
+    color: gold;
+}
+
+.fundo {
+    color: aliceblue;
+}
+
+.links {
+    color: gold;
+}
+
+
+
+.sem {
+    text-decoration: none;
+}
+
+
+
+.h1h3 {
+    color: firebrick;
+    margin: 20px;
+}
+
+.alinhar-centro {
+    text-align: center;
+    color: cornflowerblue;
+    font-family: cursive;
+    font-size: 25px;
+   
+}
+
+.centralizar {
+    text-align: center;
+    font-family: 'Milky';
+    
+   
+}
+
+.AC {
+    text-align: center;
+}
+
+header {
+    left: 10px;
+    right: 10px;
+
+    background-color: darkgreen;
+    position: fixed;
+    color: aliceblue;
+    font-size: 18px;
+    padding: 8px;
+    top: 4px;
+    border: double white 2px;
+    text-align: center;
+
+}
+
+body {
+    padding-top: 95px;
+
+}
+
+h3 {
+    margin: 20px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+a {
+    margin: 10px;
+}
+
+
+img{ 
+    height:300px;
+    margin-left: 40%;
+
+}
+
+.iframe{width: 300px; height: 300px; border-style:double;margin: 20px;}
