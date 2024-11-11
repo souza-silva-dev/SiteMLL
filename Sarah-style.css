@@ -1,0 +1,5 @@
+html{background-color: pink;}
+
+ul{list-style-type: disc;color:crimson;font-size: 26px;}
+
+li::marker{color: blueviolet;font-size: 30px;}
