@@ -1,3 +1,6 @@
 html{background-color: blue;}
 .cor-letra {color: white; font-size: 20px;}
 h1{color: aquamarine;}
+
+ol{list-style-type: disc;}
+li::marker{color:brown;font-size: 26px;}
