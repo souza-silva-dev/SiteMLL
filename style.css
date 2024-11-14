@@ -43,6 +43,7 @@ html {
 
 span {
     color: gold;
+    
 }
 
 .fundo {
@@ -57,6 +58,7 @@ span {
 
 .sem {
     text-decoration: none;
+   
 }
 
 
@@ -125,3 +127,4 @@ img{
 }
 
 .iframe{width: 300px; height: 300px; border-style:double;margin: 20px;}
+
