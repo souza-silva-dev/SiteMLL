@@ -1,0 +1,7 @@
+html{background-color:aqua;}
+
+li::marker{color:crimson; font-size: 26px; font-family: cursive;}
+
+li{color:blue; font-size: 26px;}
+
+h1{color: coral;}
