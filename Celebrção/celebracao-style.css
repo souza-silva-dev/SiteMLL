@@ -1,0 +1,7 @@
+h1{color: slateblue; text-align: center;}
+
+.lista{color:brown; font-size: 26px;}
+
+html{background-color: khaki;}
+
+li::marker{color:green; font-size: 26px;}

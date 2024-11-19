@@ -147,3 +147,5 @@ a {
     
 img{width: 100%;
 height: 300px;}
+
+.link{text-align: end;flex-wrap: wrap;}
