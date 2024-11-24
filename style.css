@@ -70,8 +70,8 @@ span {
 
 .alinhar-centro {
     text-align: center;
-    color: cornsilk;
-    font-family: cursive;
+    color:chartreuse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
    
 }
@@ -120,10 +120,6 @@ a {
     margin: 10px;
     color:cyan;
 }
-
-
-
-
 
 .iframe{ height: 300px; border:yellow; border-style: double; }
 
