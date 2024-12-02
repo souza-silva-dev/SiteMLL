@@ -1,3 +1,5 @@
+
+
 a:hover {
     background-color: white;
 }
@@ -13,6 +15,7 @@ a:hover {
     font-family: 'team';
     src: url(./Fonte/B-TEAM.otf);
 }
+
 
 td,
 th {
@@ -96,8 +99,7 @@ span {
 }
 
 header {
-    margin-left: 3px;
-    margin-right: 5px;
+  margin-left: 2px;
     background-color: darkgreen;
     position: fixed;
     color: aliceblue;
@@ -106,9 +108,9 @@ header {
     top: 4px;
     border: double white 2px;
     text-align: center;
+    width:96%;
+   
     
-    
-
 }
 
 body {
