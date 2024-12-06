@@ -65,6 +65,7 @@ span {
 
 .sem {
     text-decoration: none;
+    margin: 10px;
    
 }
 
@@ -119,7 +120,7 @@ body {
 }
 
 h3 {
-    margin: 20px;
+    margin: 10px;
     color: white;
 }
 h2{color:cyan;}
@@ -131,8 +132,9 @@ h1 {
 }
 
 a {
-    margin: 10px;
-    color:cyan;
+    margin: 20px;
+    color:white;
+   
 }
 
 .iframe{ height: 300px; border:yellow; border-style:outset;border-radius: 5%; }
