@@ -3,5 +3,9 @@ html{background-color: darkslategrey;}
 h1{color: blanchedalmond;}
 
 ul{
-    list-style-type: decimal;
+    list-style-type:disc;
 }
+
+li{font-size: 22px; color: red;}
+
+li::marker{color: cornsilk; font-size: 26px;}
